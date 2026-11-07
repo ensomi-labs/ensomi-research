@@ -43,6 +43,14 @@ unknown fields explicitly, and add it to the [index](research/README.md).
 Start with the evidence available; additional directories should hold actual
 materials rather than empty plans.
 
+## Publication plan
+
+Keep this repository as a lightweight index while the paper is being written.
+Once its content is stable and the research results are ready for publication,
+curate the supporting archive and prepare a release. Configure Zenodo and add
+the citation metadata at that stage. If the paper will cite the archive's DOI,
+publish the archive release before finalizing the manuscript.
+
 ## Archive status
 
 This is an initial documentation and provenance index. It contains no source
